@@ -1,0 +1,18 @@
+{
+  "name": "facebook_loginpage_clone",
+  "version": "1.0.0",
+  "description": "Language : HTML, Tailwind CSS\r ## 🌐 Socials:\r [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100074251248504) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aindrik.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aindriksarkar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tw_aindrik) \r ## Instruction\r Open VSCODE & install \"Mobile View\" extension. Click on \"Go live\" & copy url of your localhost and paste it. [Follow Extension instructions].....",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "nodemailer": "^6.9.15"
+  }
+}
